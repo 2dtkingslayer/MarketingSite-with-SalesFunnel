@@ -33,23 +33,6 @@ The project has three levels of difficulty, which roughly correspond to IS218/60
 
 We are including all of the levels in the assignment to show you what you will learn in the future and/or provide those who want to challenge themselves with a roadmap of what to do if they complete the project early. For instance, if you're in IS218/601 and complete the Basic requirements a week or two early, you might want to try implementing something from the Intermediate or Advanced project. While you cannot receive more than an A or additional credit for completing more than the required level, working on the advanced marketing and artificial intelligence features described in the Intermediate and Advanced project specifications could make your project much more impressive.
 
-## Grading Components
-
-1. The selected project rubric (Basic, Intermediate, or Advanced) - 40% of your grade
-2. The corresponding project presentation rubric (Basic, Intermediate, or Advanced) - 40% of your grade
-3. The individual contributions report rubric - 10% of your grade
-4. The resume rubric - 10% of your grade
-
-Each rubric has specific criteria, and you will be assigned points based on your performance in those areas. To ensure success in this project, it is crucial to actively participate, contribute to the project tasks, and collaborate with your team members.
-
-Throughout the project, maintain a detailed issue log on GitHub, documenting the tasks you have completed, including story points. This will serve as evidence of your contributions to the project. You should also provide documentation such as user stories, wireframes, and design mockups, to demonstrate your involvement in various project aspects. In your individual contributions report, explain your personal learning, skill development, and growth, supported by evidence from the issue log and story points.
-
-Remember, the key to success in this project is consistent effort, collaboration, and accountability. Good luck, and let's work together to create an amazing web application!
-
-
-- [Sprint Schedule and Exam Schedule for All Classes](https://docs.google.com/document/d/1-CkdhpDiD6SuJYW1jq6ufpxdQ_728eQFqJ8dAfkuK00/edit?usp=sharing)
-
-- [Project Requirements and Gradinng Rurbrics for All Projects](https://docs.google.com/document/d/1Zub2Fx11UqdyawYVh8kPn3zDytlWRUDBkhFCaIxIC1g/edit?usp=sharing)
 
 ## Project Background Information and Readings
 1. [About Page](https://docs.google.com/document/d/1zdfk3Xv5A6ZEB9_Dirsp2S40j_xxixx7H-852GwuJm8/edit?usp=sharing)
